@@ -1,4 +1,4 @@
-### [Requirement]
+#### [Requirement]
 'opengl_win' is a setup for win10 x64 based on Clion. 'opengl_mac' is a setup for macbook M1 based on Clion.
 
 #### ⚠️ Please adjust according to the following settings requirement.
