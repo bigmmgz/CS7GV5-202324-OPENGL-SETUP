@@ -7,6 +7,9 @@ https://glad.dav1d.de/ (please choose the 3.3 below version)
 https://www.glfw.org/ 
 
 #### [Also] 
-For macbook M1 the GLFW need to be installed by ARM Homebrew at the '/opt/homebrew/Cellar' root. - brew install glfw
+For macbook M1 the GLFW need to be installed by ARM Homebrew at the '/opt/homebrew/Cellar' root. 
 
-For other version the root will be '/usr/local/Cellar'
+For other version the root will be '/usr/local/Cellar'.
+
+using - 'brew install glfw'
+
